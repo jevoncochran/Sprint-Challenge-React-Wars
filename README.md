@@ -26,13 +26,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+It allows the developer to create components that can be used over and over again. The syntax is easy to work with because it's very similiar to HTML.
+
 - [ ] What does it mean to _think_ in react?
+
+It means to think in components and component hiearchies. Looking at page and pointing out the different components that make up that page. 
 
 - [ ] Describe state.
 
+State is how you make data dynamic.
+
 - [ ] Describe props.
 
+Props allow you to pass data from parents to child components.
+
 - [ ] What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+Side effects are what happens each and every time you render components. You can sync effects to state or prop changes using the useEffect hook.
 
 ## Project Set Up
 
